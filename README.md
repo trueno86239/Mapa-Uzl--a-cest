@@ -1,2 +1,2 @@
-# Mapa-Uzle-a-cesty-
+# Mapa (Uzlů-a-cest)
 nevim jak tohle popsat
