@@ -9,5 +9,5 @@ mapa = { 'A': [('B', 1, 'obousměrná')],
         'I': [('F', 3, 'obousměrná')]
         }
 
-for mesta, cesty in mapa.items():
-        print(f"Město {mesta} má cesty: {cesty}")
+for mesto, cesty in mapa.items():
+        print(f"Město {mesto} má cesty: {cesty}")
